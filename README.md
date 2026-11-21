@@ -1,6 +1,6 @@
 # Inventory Simulation
 
-**[ Live Demo (Click Here)](#)**
+**[ Live Demo (Click Here)](https://inventory-simulation-one.vercel.app)**
 
 ## Overview
 This project is a web-based Inventory Simulation system developed as Assignment 3 for the Modeling and Simulation course at Future University in Egypt. It simulates a periodic-review inventory system with backordering allowed, probabilistic daily demand, and probabilistic lead times, generating distribution tables, a complete day-by-day simulation table, and summary performance statistics.
